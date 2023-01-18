@@ -1,9 +1,15 @@
 # 👋 Hi there, my name is Sebastian Drajlin
-### I'm an aspiring Data Scientist
+### I'm an aspiring Data Scientist.
 
 ## Skills:
+* Spreadsheets
+* SQL
+* Python
+* Tableau
 
-📫 How to reach me: dsdrajlin@gmail.com
+🌱 I’m currently learning Machine Learning and Deep Learning.
+
+📫 How to reach me: dsdrajlin@gmail.com / [Linkedin](https://www.linkedin.com/in/sebastian-drajlin-601038235/)
 
 <!--
 **dsdrajlin/dsdrajlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
