@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning Machine Learning and Deep Learning.
 
-📫 How to reach me: dsdrajlin@gmail.com / [Linkedin](https://www.linkedin.com/in/sebastian-drajlin-601038235/)
+📫 How to reach me: dsdrajlin@gmail.com / [Linkedin](www.linkedin.com/in/sebastian-drajlin)
 
 <!--
 **dsdrajlin/dsdrajlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
