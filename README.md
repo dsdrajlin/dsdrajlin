@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋 Hi there, my name is Sebastian Drajlin
+### I'm an aspiring Data Scientist
+
+## Skills:
+
+📫 How to reach me: dsdrajlin@gmail.com
 
 <!--
 **dsdrajlin/dsdrajlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
